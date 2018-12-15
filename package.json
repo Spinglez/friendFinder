@@ -1,0 +1,25 @@
+{
+  "name": "friendFinder",
+  "version": "1.0.0",
+  "description": "A Heroku dating-like app that asks questions and uses express for routing + post/get requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spinglez/friendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spinglez/friendFinder/issues"
+  },
+  "homepage": "https://github.com/Spinglez/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
